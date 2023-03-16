@@ -1,0 +1,11 @@
+{
+    "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/digiprospector/tl/main/live.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    }
+  ]
+}
