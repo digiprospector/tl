@@ -5,7 +5,7 @@
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/digiprospector/tl@main/live.txt",
       "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-    }
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"    }
   ]
 }
